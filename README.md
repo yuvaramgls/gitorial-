@@ -3,4 +3,5 @@ gitorial-
 
 git training 
 am updating README.md 
-this is git hub tutorial.
+this is git hub tutorial
+intiate commt comment 
